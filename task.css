@@ -17,7 +17,7 @@ img{
     margin-top: 100px;
 }
 img:hover{
-    content: url("../../Img_1-Biscotto-al-Cioccolato.png");
+    content: url("Img_1-Biscotto-al-Cioccolato.png");
     transform: translateY(-40px);
     
 }
